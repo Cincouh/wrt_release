@@ -12,7 +12,7 @@ on:
         options:
           - zn_m2_immwrt
           - zn_m2_libwrt
-          - zn_m2_yb_immwrt.config
+          - zn_m2_yb_immwrt
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
